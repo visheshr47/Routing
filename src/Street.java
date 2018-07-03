@@ -20,6 +20,7 @@ public class Street extends City {
     public void toilet() {
         System.out.println("Toilets are Dirty");
         super.toilet();
+        System.out.println("bbbbbbbbbbbbbbbbbbb");
     }
 
     public void showMessage(String msg) {
